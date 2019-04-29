@@ -39,6 +39,9 @@ header {
 .fa-envelope:hover {
     opacity: 0.7;
 }
+.fa-envelope {
+    color: black;
+}
 .fa-instagram {
     margin-right: 10px;
     color: black;
