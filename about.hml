@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  
+  <link href='contact.css' rel='stylesheet'/>
+  <title> Tacos El Niño </title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+      </div>
+    </header>
+    <div class="social"> 
+      <a href="https://www.facebook.com/Taco-El-Ni%C3%B1o-1487977404835935/?fref=ts"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://www.instagram.com/tacoselnino/"><i class="fab fa-instagram"></i></a>
+      <i class="fas fa-envelope"></i>
+    </div>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Menu</a>
+      <li><a href="photos.html">Photo</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <img src="/Users/jaen7/Desktop/Screen Shot 2019-04-24 at 8.12.36 PM.jpg" alt="Cover Photo" style="width:70%; height:75%;">
+  </main>
+  
+  <sidebar>
+    <p> The most authentic Mexican food in <br>
+      Chapel Hill
+      <br>
+      <br>
+      Outdoor seating. <br>
+      Pickled Vegetables. <br>
+      Hot Sauce. <br> 
+      <br>
+      Always an adventure.
+    </p>
+  </sidebar>
+  
+  <footer class="footer">
+    <span class='spacing' > 
+    Email:tacoselnino@gmail.com
+    Phone:(919)-932-0230 
+    </span>
+    Address:102 S. Merritt Mill Rd. Chapel Hill, NC 27516 
+    
+  </footer>
+</body>
+</html>
